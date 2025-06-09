@@ -1,6 +1,7 @@
-\- Weight is obtained by sampling from the standard normal distribution and multiplying by $0.01$
+- Weight is obtained by sampling from the standard normal distribution and multiplying by $0.01$
 
-\- Activation function: hyperbolic tangent function;
+- Activation function: hyperbolic tangent function
+
 $$
 \delta^z(k)=d(k)-z(k)
 $$
